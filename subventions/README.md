@@ -8,4 +8,4 @@
 Візуалізація даних [тут](https://rada.oporaua.org/mapa-subvencii-2016/).
 Постанова [тут](http://zakon3.rada.gov.ua/laws/show/395-2016-%D0%BF/page3).
 ## elections_districts_2012
-    Файл з мапою виборчих округів
+    Файл з координатами меж виборчих округів станом на 31 липня 2012 року
