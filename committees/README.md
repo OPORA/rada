@@ -9,3 +9,4 @@
 * ```committee``` - назва комітету
 
 Матеріали по темі [тут](https://rada.oporaua.org/analityka/komitety).
+   text qualifier - "
