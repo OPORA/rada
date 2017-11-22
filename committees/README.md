@@ -8,7 +8,7 @@
 * ```position``` - посада народного депутата у комітеті
 * ```committee``` - назва комітету
 
-```P.S. Під час імпорту даних зверніть увагу на text qualifier
+```P.S. Під час імпорту даних зверніть увагу на text qualifier```
 
 Матеріали по темі [тут](https://rada.oporaua.org/analityka/komitety).
 
