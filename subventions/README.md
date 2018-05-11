@@ -9,8 +9,8 @@
 Візуалізація даних [тут](https://rada.oporaua.org/mapa-subvencii-2016/).
 Постанова [тут](http://zakon3.rada.gov.ua/laws/show/395-2016-%D0%BF/page3).
 Матеріал [тут](https://rada.oporaua.org/analityka/zviti/19751-derzhavni-subventsiji-khto-skil-ki-naprosiv-na-okrug).
-## elections_districts_2012
-    Файл з координатами меж виборчих округів станом на 31 липня 2012 року
+## elections_districts
+    Файл з координатами меж виборчих округів.
 ## MPs
     Файл із зведеною сумою отриманих субвенцій по кожному нардепу
 * ```oblast``` - назва області
