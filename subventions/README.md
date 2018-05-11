@@ -1,12 +1,11 @@
 ## subventions2016
     Розподіл субвенцій по округам народних депутатів згідно Додатку 3 до Постанови КМУ №395 від 24.06.2016 р.
 
+## subventions2017
+    Розподіл субвенцій по округам народних депутатів згідно Додатку 3 до Розпоряджень КМУ №70, №310, №463, №484, №689, №861.
 
+Мапа субвенцій [тут](https://rada.oporaua.org/mapa-subvencii-2016/).
 
-
-Візуалізація даних тут](https://rada.oporaua.org/mapa-subvencii-2016/).
-
-Постанова 2016 [тут](http://zakon3.rada.gov.ua/laws/show/395-2016-%D0%BF/page3).
 Матеріал 2016 [тут](https://rada.oporaua.org/analityka/zviti/19751-derzhavni-subventsiji-khto-skil-ki-naprosiv-na-okrug).
 Матеріал 2017 [тут] (https://www.oporaua.org/novyny/45345-derzhavni-subventsiyi-2017-yak-ne-peretvoryty-byudzhetni-koshty-v-peredvyborchyy-instrument).
 
