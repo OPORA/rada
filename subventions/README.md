@@ -7,7 +7,7 @@
 Мапа субвенцій [тут](https://rada.oporaua.org/mapa-subvencii-2016/).
 
 Матеріал 2016 [тут](https://rada.oporaua.org/analityka/zviti/19751-derzhavni-subventsiji-khto-skil-ki-naprosiv-na-okrug).
-Матеріал 2017 [тут] (https://www.oporaua.org/novyny/45345-derzhavni-subventsiyi-2017-yak-ne-peretvoryty-byudzhetni-koshty-v-peredvyborchyy-instrument).
+Матеріал 2017 [тут](https://www.oporaua.org/novyny/45345-derzhavni-subventsiyi-2017-yak-ne-peretvoryty-byudzhetni-koshty-v-peredvyborchyy-instrument).
 
 ## elections_districts
     Файл з координатами меж виборчих округів.
